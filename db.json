@@ -6,7 +6,7 @@
             "last_name": "Rolfs",
             "gender": "Female",
             "companyId": 1,
-            "img": "https://robohash.org/quinamaccusantium.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/quinamaccusantium.jpg?size=250x250&set=set1"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "last_name": "Bofield",
             "gender": "Male",
             "companyId": 1,
-            "img": "https://robohash.org/fugaomnisincidunt.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/fugaomnisincidunt.jpg?size=250x250&set=set1"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "last_name": "Croizier",
             "gender": "Male",
             "companyId": 2,
-            "img": "https://robohash.org/ipsumautnecessitatibus.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/ipsumautnecessitatibus.jpg?size=250x250&set=set1"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "last_name": "Perin",
             "gender": "Male",
             "companyId": 3,
-            "img": "https://robohash.org/saepequismagni.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/saepequismagni.jpg?size=250x250&set=set1"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "last_name": "Lording",
             "gender": "Female",
             "companyId": 3,
-            "img": "https://robohash.org/inametdolor.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/inametdolor.jpg?size=250x250&set=set1"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "last_name": "Poles",
             "gender": "Male",
             "companyId": 4,
-            "img": "https://robohash.org/suntmodinemo.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/suntmodinemo.jpg?size=250x250&set=set1"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "last_name": "Kertess",
             "gender": "Female",
             "companyId": 5,
-            "img": "https://robohash.org/atdolorecum.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/atdolorecum.jpg?size=250x250&set=set1"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "last_name": "Forstall",
             "gender": "Male",
             "companyId": 5,
-            "img": "https://robohash.org/ducimusaliasquisquam.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/ducimusaliasquisquam.jpg?size=250x250&set=set1"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "last_name": "McGarvie",
             "gender": "Female",
             "companyId": 5,
-            "img": "https://robohash.org/etomnisipsum.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/etomnisipsum.jpg?size=250x250&set=set1"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "last_name": "Copelli",
             "gender": "Male",
             "companyId": 5,
-            "img": "https://robohash.org/perspiciatisinvitae.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/perspiciatisinvitae.jpg?size=250x250&set=set1"
         },
         {
             "id": 11,
@@ -86,7 +86,7 @@
             "last_name": "Scrivenor",
             "gender": "Male",
             "companyId": 5,
-            "img": "https://robohash.org/eumsimiliquenihil.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/eumsimiliquenihil.jpg?size=250x250&set=set1"
         },
         {
             "id": 12,
@@ -94,7 +94,7 @@
             "last_name": "Tivers",
             "gender": "Male",
             "companyId": 6,
-            "img": "https://robohash.org/ipsumasperioresquia.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/ipsumasperioresquia.jpg?size=250x250&set=set1"
         },
         {
             "id": 13,
@@ -102,7 +102,7 @@
             "last_name": "Bath",
             "gender": "Female",
             "companyId": 6,
-            "img": "https://robohash.org/doloresinventorevero.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/doloresinventorevero.jpg?size=250x250&set=set1"
         },
         {
             "id": 14,
@@ -110,7 +110,7 @@
             "last_name": "Grishanin",
             "gender": "Female",
             "companyId": 6,
-            "img": "https://robohash.org/distinctiovoluptatemsint.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/distinctiovoluptatemsint.jpg?size=250x250&set=set1"
         },
         {
             "id": 15,
@@ -118,7 +118,7 @@
             "last_name": "Connaughton",
             "gender": "Female",
             "companyId": 7,
-            "img": "https://robohash.org/beataeharumexercitationem.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/beataeharumexercitationem.jpg?size=250x250&set=set1"
         },
         {
             "id": 16,
@@ -126,7 +126,7 @@
             "last_name": "Powell",
             "gender": "Male",
             "companyId": 8,
-            "img": "https://robohash.org/culpanihilet.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/culpanihilet.jpg?size=250x250&set=set1"
         },
         {
             "id": 17,
@@ -134,7 +134,7 @@
             "last_name": "Childs",
             "gender": "Female",
             "companyId": 8,
-            "img": "https://robohash.org/utetminima.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/utetminima.jpg?size=250x250&set=set1"
         },
         {
             "id": 18,
@@ -142,7 +142,7 @@
             "last_name": "Dellenbrok",
             "gender": "Male",
             "companyId": 8,
-            "img": "https://robohash.org/iustoomnisodio.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/iustoomnisodio.jpg?size=250x250&set=set1"
         },
         {
             "id": 19,
@@ -150,7 +150,7 @@
             "last_name": "Sturman",
             "gender": "Male",
             "companyId": 9,
-            "img": "https://robohash.org/utevenietrepellat.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/utevenietrepellat.jpg?size=250x250&set=set1"
         },
         {
             "id": 20,
@@ -158,7 +158,7 @@
             "last_name": "Wollacott",
             "gender": "Male",
             "companyId": 9,
-            "img": "https://robohash.org/necessitatibusnonerror.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/necessitatibusnonerror.jpg?size=250x250&set=set1"
         },
         {
             "id": 21,
@@ -166,7 +166,7 @@
             "last_name": "Chislett",
             "gender": "Female",
             "companyId": 9,
-            "img": "https://robohash.org/temporeautsunt.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/temporeautsunt.jpg?size=250x250&set=set1"
         },
         {
             "id": 22,
@@ -174,7 +174,7 @@
             "last_name": "Binne",
             "gender": "Female",
             "companyId": 9,
-            "img": "https://robohash.org/asperiorescumquemaiores.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/asperiorescumquemaiores.jpg?size=250x250&set=set1"
         },
         {
             "id": 23,
@@ -182,7 +182,7 @@
             "last_name": "Weatherley",
             "gender": "Male",
             "companyId": 10,
-            "img": "https://robohash.org/erroratquequi.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/erroratquequi.jpg?size=250x250&set=set1"
         },
         {
             "id": 24,
@@ -190,7 +190,7 @@
             "last_name": "Goward",
             "gender": "Male",
             "companyId": 10,
-            "img": "https://robohash.org/etasperioresquo.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/etasperioresquo.jpg?size=250x250&set=set1"
         },
         {
             "id": 25,
@@ -198,7 +198,7 @@
             "last_name": "Fleckness",
             "gender": "Male",
             "companyId": 10,
-            "img": "https://robohash.org/isteundeminus.jpg?size=300x300&set=set1"
+            "img": "https://robohash.org/isteundeminus.jpg?size=250x250&set=set1"
         }
     ],
     "companies": [
